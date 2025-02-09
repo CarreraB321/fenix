@@ -1,0 +1,148 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/amphetyze/console-ban/console-ban-settings.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\gh\amphetyze\console-ban\console-ban-settings.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/amphetyze/console-ban/console-ban.min.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\gh\amphetyze\console-ban\console-ban.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/amphetyze/console-ban/context-menu-ban.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\gh\amphetyze\console-ban\context-menu-ban.js
+Content Type: application/javascript
+
+Uri: https://climbcheats.com/
+File Name: C:\Downloaded Web Sites\climbcheats.com\index.htm
+Content Type: text/html
+
+Uri: https://climbcheats.com/apex.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\apex.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/catalog.html
+File Name: C:\Downloaded Web Sites\climbcheats.com\catalog.html
+Content Type: text/html
+
+Uri: https://climbcheats.com/catalog.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\catalog.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/common.js.html
+File Name: C:\Downloaded Web Sites\climbcheats.com\common.js.html
+Content Type: text/html
+
+Uri: https://climbcheats.com/console-ban-settings.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\console-ban-settings.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/console-ban.min.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\console-ban.min.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/context-menu-ban.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\context-menu-ban.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/cs2.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\cs2.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/css2
+File Name: C:\Downloaded Web Sites\climbcheats.com\css2
+Content Type: 
+
+Uri: https://climbcheats.com/display_anim.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\display_anim.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/fone.png
+File Name: C:\Downloaded Web Sites\climbcheats.com\fone.png
+Content Type: image/png
+
+Uri: https://climbcheats.com/fortnite.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\fortnite.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/gta.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\gta.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/header_anim.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\header_anim.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/icon.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img01.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img01.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img02.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img02.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img03.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img03.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img04.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img04.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img05.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img05.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img06.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img06.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/img07.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\img07.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/index.html
+File Name: C:\Downloaded Web Sites\climbcheats.com\index.html
+Content Type: text/html
+
+Uri: https://climbcheats.com/jquery.min.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/minecraft.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\minecraft.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/politics.html
+File Name: C:\Downloaded Web Sites\climbcheats.com\politics.html
+Content Type: text/html
+
+Uri: https://climbcheats.com/rainbow.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\rainbow.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/reviews.html
+File Name: C:\Downloaded Web Sites\climbcheats.com\reviews.html
+Content Type: text/html
+
+Uri: https://climbcheats.com/reviews.js
+File Name: C:\Downloaded Web Sites\climbcheats.com\reviews.js
+Content Type: text/javascript
+
+Uri: https://climbcheats.com/roblox.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\roblox.svg
+Content Type: image/svg+xml
+
+Uri: https://climbcheats.com/style.css
+File Name: C:\Downloaded Web Sites\climbcheats.com\style.css
+Content Type: text/css
+
+Uri: https://climbcheats.com/valorant.svg
+File Name: C:\Downloaded Web Sites\climbcheats.com\valorant.svg
+Content Type: image/svg+xml
+

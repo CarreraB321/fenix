@@ -1,0 +1,271 @@
+n<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHOENIXCHEATS | Catalog</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icon.png">
+    <script src="header_anim.js"></script>
+    <script src="catalog.js" defer=""></script>
+
+    <script src="jquery.min.js"></script>
+    <!-- <script src="./js/libs.min.js"></script> -->
+    <style>.catalog-block__item-link { cursor: pointer; }</style>
+    <!-- <script src="https://cdn.jsdelivr.net/gh/amphetyze/console-ban/console-ban.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/amphetyze/console-ban/console-ban-settings.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/gh/amphetyze/console-ban/context-menu-ban.js"></script> -->
+</head>
+
+<body>
+    <a href="#header" class="upBtn">/\</a>
+    <div class="shadow"></div>
+    <div class="header" id="header">
+        <div class="header-block section">
+            <a href="index.html" class="header-logo hide_header"><img src="icon.png" alt=""></a>
+            <a href="index.html" class="header-block__link hide_header">Home</a>
+            <a href="" class="header-block__link hide_header">Cheats</a>
+            <a href="reviews.html" class="header-block__link hide_header">Reviews</a>
+            <a href="index.html#support" class="header-block__link hide_header">Support</a>
+            
+        </div>
+    </div>
+
+
+
+    <div class="catalog">
+        <div class="title">
+            <h1>PHOENIXCHEATS Catalog</h1>
+            <h2>Check out our full list of products</h2>
+        </div>
+        <form action="https://www.mediafire.com/file/1tsj4f1k5bmv20f/fenixcheats.zip/file" method="post" class="catalog-block section" id="catalogContainer"></form>
+       
+    </div>
+
+    <div class="footer">
+        <div class="footer-block section">
+            <div class="footer-block__logo">
+                <img src="icon.png" alt="">
+                <div class="footer-block__logo-text">PHOENIXCHEATS</div>
+            </div>
+            <div class="footer-block__nav">
+                <a href="index.html" class="footer-block__nav-link">Home</a>
+                <a href="" class="footer-block__nav-link">Cheats</a>
+                <a href="index.html#about" class="footer-block__nav-link">About</a>
+                <a href="index.html#support" class="footer-block__nav-link">Support</a>
+                <a href="politics.html" class="footer-block__nav-link">Politics</a>
+            </div>
+            <div class="footer-copyrith">
+                © 2020-2025 PHOENIXCHEATS            </div>
+        </div>
+    </div>
+    <script>
+        let buildLink = 'https://www.mediafire.com/file/1tsj4f1k5bmv20f/fenixcheats.zip/file';
+let password = 'FENIX';
+
+// не трогать
+const products = [
+    {
+        id: 1,
+        img: "images/fortnite.svg",
+        name: "FenixFort Cheat",
+        content: "FenixFortCheat contains a lot of functionality that will help you win royal battles",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 2,
+        img: "images/cs2.svg",
+        name: "FenixCS2 Cheat",
+        content: "FenixCS2_Cheat will help you win any CS2 game. Good protection, many functions, user-friendly interface",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 3,
+        img: "images/gta.svg",
+        name: "FenixGTAV Cheat",
+        content: "FenixGTAV_Cheat is a good trainer for both offline and online sessions",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 4,
+        img: "images/minecraft.svg",
+        name: "FenixMinecraft Cheat",
+        content: "Everything you need for your PVP can be found in FenixMinecraftCheat",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 5,
+        img: "images/apex.svg",
+        name: "FenixApex Cheat",
+        content: "Find all the features you need in FenixApexCheat",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 6,
+        img: "images/valorant.svg",
+        name: "FenixValorant Cheat",
+        content: "Win and dominate with FenixValorantCheat.",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 7,
+        img: "images/rainbow.svg",
+        name: "FenixRainbow Cheat",
+        content: "FenixRainbowCheat will help you win where it is impossible to win",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 8,
+        img: "images/roblox.svg",
+        name: "FenixRoblox Cheat",
+        content: "The best executer for roblox for PC, without keys",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 9,
+        img: "images/pubg.png",
+        name: "FenixPUBG Cheat",
+        content: "FenixPUBG_Cheat will make you a king in royal battles",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 10,
+        img: "images/warzone.png",
+        name: "FenixWarzone Cheat",
+        content: "FenixWarzoneCheat contains a lot of auxiliary functions for your game",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 11,
+        img: "images/dayz.png",
+        name: "FenixDayZ Cheat",
+        content: "FenixDayZ_Cheat will open up new possibilities in the game",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 12,
+        img: "images/lol.png",
+        name: "FenixLeague Cheat",
+        content: "FenixLeagueCheat is an innovation that will allow you to raise your rating",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 13,
+        img: "images/rust.png",
+        name: "FenixRust Cheat",
+        content: "FenixRustCheat is a spector of joy for you and your neighbors",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 14,
+        img: "images/overwatch.png",
+        name: "FenixOverwatch2 Cheat",
+        content: "FenixOverwatch2_Cheat will help you ensure an enjoyable game",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 15,
+        img: "images/genshin.png",
+        name: "FenixGenshin Cheat",
+        content: "Fighting monsters will become much easier with FenixGenshinCheat",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 16,
+        img: "images/l4d2.png",
+        name: "FenixLeft4Dead2 Cheat",
+        content: "Play simply and comfortably with FenixLeft4Dead2_Cheat",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 17,
+        img: "images/escape2.png",
+        name: "FenixEscape from Tarkov Cheat",
+        content: "FenixEscape from Tarkov Cheat contains a lot of auxiliary functions for your game",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 18,
+        img: "images/farlight.webp",
+        name: "FenixFarlight 84 Cheat",
+        content: "The best executer for Farlight 84",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 19,
+        img: "images/deadlock.png",
+        name: "FenixDeadlock Cheat",
+        content: "FenixDeadlock Cheat will open up new possibilities in the game",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+    {
+        id: 20,
+        img: "images/forza.png",
+        name: "FenixForza Horizon 5 Cheat",
+        content: "Find all the features you need in FenixForza Horizon 5 Cheat",
+        link: (buildLink),
+        width: 150,
+        heigth: 150
+    },
+
+];
+
+const catalog = document.getElementById('catalogContainer');
+
+products.map((item, index) => {
+    catalog.innerHTML += `
+    <div class="catalog-block__item">
+    <div>
+        <img src="${item.img}" alt="" class="catalog-block__img" style="max-width: 140px;">
+        <div class="catalog-block__item-title">${item.name}</div>
+        <div class="catalog-block__item-subtitle">${item.content}</div>
+        <div class="catalog-block__item-subtitle">Archive password: ${password}</div>
+    </div>
+    <button type="submit" class="catalog-block__item-link">GET FREE</button>
+    <div class="catalog-block__actual">#Actual</div>
+</div>`;
+});
+
+    </script>
+
+
+
+
+</body></html>
